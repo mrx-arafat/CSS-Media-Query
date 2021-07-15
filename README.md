@@ -11,11 +11,13 @@ Screen Sizes of Media Query
   # Screen = 1281px to higher resolution desktops
 
 
+
 @media (min-width: 1281px) {
   
   /* CSS */
   
 }
+
 
 
   # Device = Laptops, Desktops
@@ -31,7 +33,7 @@ Screen Sizes of Media Query
 
   # Device = Tablets, Ipads (portrait)
   # Screen = B/w 768px to 1024px
-*/
+
 
 @media (min-width: 768px) and (max-width: 1024px) {
   
@@ -44,6 +46,7 @@ Screen Sizes of Media Query
   # Screen = B/w 768px to 1024px
 
 
+
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   
   /* CSS */
@@ -51,8 +54,10 @@ Screen Sizes of Media Query
 }
 
 
+
   # Device = Low Resolution Tablets, Mobiles (Landscape)
   # Screen = B/w 481px to 767px
+
 
 
 @media (min-width: 481px) and (max-width: 767px) {
