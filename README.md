@@ -4,6 +4,8 @@
 Screen Sizes of Media Query
 
 
+![Screen](media%20query%20size/screen%20size.jpg)
+
 
   # Device = Desktops
   # Screen = 1281px to higher resolution desktops
